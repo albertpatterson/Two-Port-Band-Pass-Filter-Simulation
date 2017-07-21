@@ -1,7 +1,7 @@
-# this is a very old sample, which might contain interesting code but needs to be reviewed and polished. 
+# This is a very old sample, which might contain interesting code but needs to be reviewed and polished. 
 
-# code_samples
-Samples of code I have written
+## code_samples
+Samples of code I have written as part of my graduate work with UHF MEMS Filters
 
 C++ code sample:
 
